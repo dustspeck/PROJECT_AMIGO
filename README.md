@@ -1,6 +1,8 @@
 # PROJECT_AMIGO
 
-WEB APP/CROSS-PLATFORM: https://prezi.com/p/zkvtprbnc3a_/?present=1
+WEB APP/CROSS-PLATFORM: http://prj-amigo.herokuapp.com/
+
+AR APP:RUNNING LOCALLY ON SPARK AR STDUI(DEMO)
 
 GOOGLE DOCS:    https://docs.google.com/document/d/10auwmuVFuIjUU4OT6Ggwp6U3vqjJ2YJeOBQpEVOCy7A/edit?usp=sharing
 
