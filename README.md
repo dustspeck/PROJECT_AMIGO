@@ -18,3 +18,29 @@ Gamification system may include:
     Internal currency/rewards/Badges. For each completed task, the users get different rewards: AMIGOP, HP, and gold/Badges.
     Competition. The children can compete with others in challenges to fight the diseases.
     Learning. After the users complete tasks, they can learn new concepts.
+
+
+TECHNICAL STACK:
+
+
+
+FRONT END:
+
+
+
+BACK END:
+
+
+
+    DATA ANALYTICS:
+
+    https://pair-code.github.io/facets/
+
+    CLOUD HEALTCARE PLATFORM FOR PARENTS/HEALTHCARE PROFESSIONALS:
+
+    https://www.elastic.co/products/kibana
+    https://www.elastic.co/products/log-monitoring
+    https://www.elastic.co/products/infrastructure-monitoring
+    https://www.elastic.co/products/ece
+    https://www.h2o.ai/products/h2o-driverless-ai/
+
