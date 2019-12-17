@@ -36,6 +36,9 @@ TECHNICAL STACK:
 
 FRONT END:
 
+The Amigo WebApp is made using PIXI.js which is also used organisations like Google & Cartoon Network. In addition which PIXI-Sound.js which gives our character it's cute voice.
+
+https://www.pixijs.com/
 
 
 BACK END:
