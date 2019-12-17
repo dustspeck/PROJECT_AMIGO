@@ -46,6 +46,6 @@ BACK END:
 
 
 AUGMENTED REALITY INTERFACE:
-    SPARK AR STUDIO:
+
     https://sparkar.facebook.com/ar-studio
     
