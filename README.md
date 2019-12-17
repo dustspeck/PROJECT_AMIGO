@@ -1,5 +1,8 @@
 # PROJECT_AMIGO
 
+
+GOOGLE DOCS:    https://docs.google.com/document/d/10auwmuVFuIjUU4OT6Ggwp6U3vqjJ2YJeOBQpEVOCy7A/edit?usp=sharing
+PITCH DECK:     
 //national hackathon 2019
 
 
