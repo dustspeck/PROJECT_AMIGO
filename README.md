@@ -1,6 +1,6 @@
 # PROJECT_AMIGO
 
-//national hackathon 
+//national hackathon 2019
 
 
 AMIGO is a healthcare gamification app to support and empower children suffering from chronic disesases for instance type-I diabetes, a number which is constantly incresing;therapy is often troublesome and a big challenge for both children and parents;Managingday­to­day life with diabetes includes estimating carbs, analyzing blood glucose levels as well as calculating the correct insulin dose. Many children often need their parents’ help since this is a very difficult task to cope with.
